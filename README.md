@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table width=100%">
+<table width="100%">
    <tr>
       <td>
                   ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algo)
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       </td>
       <td>
                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats
-                  </td>
+     </td>
    </tr>           
 </table>
 
