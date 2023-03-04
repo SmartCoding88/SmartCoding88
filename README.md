@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Learning Addict
 
 
-![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algolia)
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algolia) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Skills</h3>
