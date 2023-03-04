@@ -14,17 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-   <tr>
-      <td> [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) </td>
-      <td>
-                  ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algo)
-      
-      </td>
-      <td>
-                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats)
-     </td>
-   </tr>           
-</table>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
