@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
-![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats)
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats&theme=algolia)
 
 
 
