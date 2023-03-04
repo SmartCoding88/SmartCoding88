@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
+
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudAmamouHaddad)](https://github.com/anuraghazra/github-readme-stats&theme=algolia)
+
+<h3>My Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
 
 
 
