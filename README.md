@@ -10,7 +10,7 @@
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Learner Addict
+- ⚡ Fun fact: Learning Addict
 
 
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudAmamouHaddad&show_icons=true&theme=algolia)
