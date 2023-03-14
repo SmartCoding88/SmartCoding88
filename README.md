@@ -10,7 +10,7 @@
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Learning Addict
+- ⚡ Fun fact: Learning Addict   ![Profile View Counter](https://komarev.com/ghpvc/?username=smartcodingBykhouloud)
 
 
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartcodingBykhouloud&show_icons=true&theme=algolia) &nbsp;
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=smartcodingBykhouloud)
+
 
 
 
