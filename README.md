@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Learning Addict   ![Profile View Counter](https://komarev.com/ghpvc/?username=smartcodingBykhouloud)
 
 
-![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartcodingBykhouloud&show_icons=true&theme=algolia) &nbsp;
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartcodingBykhouloud&show_icons=true&theme=algolia) &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcodingBykhouloud&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Skills</h3>
